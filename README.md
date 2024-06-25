@@ -39,7 +39,7 @@ Ensure you have the following installed:
 1. Navigate to the `python` folder:
 
    ```bash
-   cd python
+   cd Donald
    ```
 2. Run the server:
 
