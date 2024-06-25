@@ -49,7 +49,6 @@ Ensure you have the following installed:
 
 ## Folder Structure
 
-- `python`: Contains Python scripts and server code.
 - `templates`: HTML templates for the web application.
 - `static`: Static files such as CSS and JavaScript.
 - `routes`: Application routes.
